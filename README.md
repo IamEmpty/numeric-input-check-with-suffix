@@ -1,1 +1,1 @@
-# numeric-input-check-with-suffix
+# Input check with suffix
